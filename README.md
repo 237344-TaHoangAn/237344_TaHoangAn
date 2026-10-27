@@ -49,4 +49,6 @@ Dự án xây dựng hệ thống quản lý nhân sự, hỗ trợ quản lý t
 Đang phát triển theo yêu cầu bài thi quản lý nhân sự.
 ## Docker Hub
 
-- Backend: https://hub.docker.com/r/237344/backend
+Backend: https://hub.docker.com/r/237344/backend
+
+Frontend: https://hub.docker.com/r/237344/frontend
