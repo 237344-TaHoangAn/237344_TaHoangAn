@@ -52,3 +52,6 @@ Dự án xây dựng hệ thống quản lý nhân sự, hỗ trợ quản lý t
 Backend: https://hub.docker.com/r/237344/backend
 
 Frontend: https://hub.docker.com/r/237344/frontend
+## Render
+Frontend App: https://web-237344.onrender.com
+Backend API: https://api-237344.onrender.com
