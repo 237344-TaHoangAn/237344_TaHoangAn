@@ -47,3 +47,6 @@ Dự án xây dựng hệ thống quản lý nhân sự, hỗ trợ quản lý t
 
 ## 7. Trạng thái
 Đang phát triển theo yêu cầu bài thi quản lý nhân sự.
+## Docker Hub
+
+- Backend: https://hub.docker.com/r/237344/backend
